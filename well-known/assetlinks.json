@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.puzzle.challenge",
+    "sha256_cert_fingerprints":
+    ["78:15:A9:35:89:53:70:C4:EA:49:63:A2:5A:65:50:55:65:1A:FF:D7:88:7D:2B:F4:50:AC:78:B5:EF:5D:56:C3"]
+  }
+}]
